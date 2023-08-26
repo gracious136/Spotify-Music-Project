@@ -7,6 +7,7 @@ Welcome to my Music Playlist Clustering project! This project delves into the ex
 
 - **Dataset Exploration:** My journey began with a comprehensive music dataset encompassing various audio features like danceability, loudness, tempo, instrumentalness, mode, acousticness, duration_ms, energy, liveness, speechiness, time_signature, valence and key. To streamline our analysis, we selected the top 5 features that exhibited significant variance, ensuring that we capture the essence of each song.
   - acousticness: A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic.
+    
   - danceability: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
   - duration_ms: The duration of the track in milliseconds.
   - energy: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.
